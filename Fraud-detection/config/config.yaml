@@ -1,0 +1,7 @@
+data:
+  raw_path: dataset/raw/Fraud.csv
+  processed_path: dataset/processed/updated.csv
+
+model:
+  model_path: artifacts/model.pkl
+  transformer_path: artifacts/transformer.pkl
