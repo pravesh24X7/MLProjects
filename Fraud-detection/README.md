@@ -8,3 +8,9 @@ The dataset contains approx 6362620 rows and 10 columns and has size of approx. 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Run Training
+```bash
+python main.py
+```
+
